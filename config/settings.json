@@ -1,0 +1,13 @@
+{
+    "port": 2121,
+    "max_connections": 256,
+    "max_conn_per_ip": 5,
+    "address": "0.0.0.0",
+    "passive_ports": "60000-60100",
+    "timeout": 300,
+    "welcome_message": "欢迎使用Python FTP服务器!",
+    "enable_logging": true,
+    "log_level": "INFO",
+    "anonymous_enable": false,
+    "anonymous_root_dir": "e:/Python/FTPServer/ftp_files/anonymous"
+}

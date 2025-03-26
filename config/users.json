@@ -1,0 +1,20 @@
+[
+    {
+        "username": "admin",
+        "password": "admin123",
+        "directory": "e:/Python/FTPServer/ftp_files/admin",
+        "permissions": "elradfmwMT"
+    },
+    {
+        "username": "user1",
+        "password": "user123",
+        "directory": "e:/Python/FTPServer/ftp_files/user1",
+        "permissions": "elr"
+    },
+    {
+        "username": "demo",
+        "password": "demo123",
+        "directory": "e:/Python/FTPServer/ftp_files/demo",
+        "permissions": "elradfmwMT"
+    }
+]

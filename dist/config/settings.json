@@ -1,0 +1,7 @@
+{
+    "port": 2121,
+    "max_connections": 256,
+    "max_conn_per_ip": 5,
+    "address": "0.0.0.0",
+    "passive_ports": "60000-60100"
+}
